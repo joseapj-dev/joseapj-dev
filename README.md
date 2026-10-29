@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/1911936?v=4" width="140" alt="Avatar pixel de Jose"/>
-
 <a href="https://github.com/joseapj-dev"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=1200&color=7FD1FF&center=true&vCenter=true&width=640&height=50&lines=Jose+Antonio+Pereira;Responsable+de+Desarrollo;Transporte+%C2%B7+ERP+%C2%B7+IA" alt="Jose Antonio Pereira · Responsable de Desarrollo"/></a>
 
 **Software para sistemas de transporte y ERP · Integraciones · IA aplicada a la logística**
@@ -14,30 +12,31 @@
 
 ---
 
-### ▸ Ficha de personaje
+### ▸ Player 1
 
-| | |
-|---|---|
-| **Clase** | Responsable de Desarrollo |
-| **Mundo** | Transporte y logística |
-| **Especialidad** | Sistemas de transporte, ERP e integraciones |
-| **Poder especial** | IA aplicada a procesos reales de negocio |
-| **Misión actual** | Automatizar operaciones de punta a punta |
+```text
+JUGADOR ........ Jose Antonio Pereira
+CLASE .......... Responsable de Desarrollo
+MUNDO .......... Transporte y logística
+BASE ........... Valencia, España
 
-### ▸ Sobre mí
+ERP ............ ██████████
+INTEGRACIONES .. █████████░
+TRANSPORTE ..... █████████░
+DATOS / SQL .... ████████░░
+IA APLICADA .... ████████░░
 
-Lidero el desarrollo de software en el sector del transporte y la logística. Diseño soluciones que conectan **sistemas de gestión de transporte**, **ERP** y servicios externos, y automatizo procesos operativos de punta a punta. Desde 2026 me centro en llevar la **inteligencia artificial** a casos de negocio reales, con atención al cumplimiento normativo.
+> PRESS START_
+```
 
-### ▸ Habilidades
+### ▸ Misiones
 
-| Área | Enfoque |
-|---|---|
-| **Sistemas de transporte (TMS)** | Pedidos, planificación, tarifas y orígenes/destinos |
-| **ERP** | Desarrollo, integración y automatización de procesos |
-| **Integraciones** | EDI, APIs REST, servicios de terceros y sincronización de datos |
-| **Datos** | Modelado y carga en SQL, normalización de fuentes heterogéneas |
-| **IA aplicada** | LLMs, agentes y automatización inteligente |
-| **IA responsable** | Adaptación al Reglamento Europeo de IA (AI Act) |
+- 🚚 **Sistemas de transporte:** pedidos, planificación, tarifas y orígenes/destinos
+- 🧩 **ERP:** desarrollo, integración y automatización de procesos
+- 🔌 **Integraciones:** EDI, APIs REST, servicios de terceros y sincronización de datos
+- 🗄️ **Datos:** modelado y carga en SQL, normalización de fuentes heterogéneas
+- 🤖 **IA aplicada:** LLMs, agentes y automatización inteligente
+- ⚖️ **IA responsable:** adaptación al Reglamento Europeo de IA (AI Act)
 
 ### ▸ Inventario
 
@@ -53,6 +52,7 @@ Lidero el desarrollo de software en el sector del transporte y la logística. Di
 ### ▸ Logros desbloqueados
 
 - 🏆 **Máster en Inteligencia Artificial**: BIG School, con doble titulación de la Universidad Isabel I (2026)
+- 🎖️ **Responsable de Desarrollo** desde 2026
 
 ---
 
