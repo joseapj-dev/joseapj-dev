@@ -20,11 +20,11 @@ CLASE .......... Responsable de Desarrollo
 MUNDO .......... Transporte y logística
 BASE ........... Valencia, España
 
-ERP ............ ██████████
-INTEGRACIONES .. █████████░
-TRANSPORTE ..... █████████░
-DATOS / SQL .... ████████░░
-IA APLICADA .... ████████░░
+ERP ............ [##########]
+INTEGRACIONES .. [#########-]
+TRANSPORTE ..... [#########-]
+DATOS / SQL .... [########--]
+IA APLICADA .... [########--]
 
 > PRESS START_
 ```
