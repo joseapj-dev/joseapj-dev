@@ -1,18 +1,21 @@
-<div align="center">
-
-<img src="player1.svg" width="100%" alt="Player 1: Jose Antonio Pereira, Responsable de Desarrollo. Habilidades: ERP, integraciones, transporte, datos/SQL, IA/LLM, Python y FastAPI"/>
-
-<a href="https://www.linkedin.com/in/jose-antonio-pereira-jimenez/"><img src="https://img.shields.io/badge/LinkedIn-2B3A55?style=flat-square&logo=linkedin&logoColor=7FD1FF" alt="LinkedIn"/></a>
-<a href="mailto:joseapj.ia@gmail.com"><img src="https://img.shields.io/badge/Email-2B3A55?style=flat-square&logo=gmail&logoColor=7FD1FF" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Valencia,_España-2B3A55?style=flat-square&logo=googlemaps&logoColor=7FD1FF" alt="Valencia, España"/>
-
-</div>
+<table>
+<tr>
+<td width="74%"><img src="player1.svg" width="100%" alt="Player 1: Jose Antonio Pereira, Responsable de Desarrollo. Habilidades: ERP, integraciones, transporte, datos/SQL, IA/LLM, Python y FastAPI"/></td>
+<td width="26%" align="center">
+<a href="https://www.linkedin.com/in/jose-antonio-pereira-jimenez/"><img src="btn_linkedin.svg" width="100%" alt="LinkedIn: ver perfil"/></a>
+<br/><br/>
+<a href="mailto:joseapj.ia@gmail.com"><img src="btn_email.svg" width="100%" alt="Email: enviar mensaje"/></a>
+<br/><br/>
+<a href="mailto:joseapj.ia@gmail.com?subject=Hablemos"><img src="btn_coin.svg" width="100%" alt="Insert coin: ¿hablamos?"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center"><img src="misiones.svg" width="100%" alt="Misiones: sistemas de transporte, ERP, integraciones, datos, IA aplicada e IA responsable"/></p>
 
-<p align="center"><img src="experiencia.svg" width="100%" alt="Historial: Soporte técnico superior en Xtremmedia (2016-2021), Técnico informático en el Ilustre Colegio de Abogados de Badajoz (2021-2025) y Sistemas TI / Responsable de Desarrollo en transporte y logística (2025-hoy)"/></p>
+<p align="center"><img src="experiencia.svg" width="100%" alt="Historial: Soporte técnico superior en servicios informáticos (2016-2021), Técnico informático en el sector jurídico (2021-2025) y Sistemas TI / Responsable de Desarrollo en transporte y logística (2025-hoy)"/></p>
 
 <p align="center"><img src="inventario.svg" width="100%" alt="Inventario: SQL, Python, FastAPI, APIs REST, EDI, ERP, LLMs, agentes IA, IA generativa, Git, Windows Server, Active Directory, Office 365, VMware y hacking ético"/></p>
 
