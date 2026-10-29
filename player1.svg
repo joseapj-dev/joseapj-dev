@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="370" viewBox="0 0 820 370" shape-rendering="crispEdges">
+<style>
+text{font-family:"Courier New",Consolas,monospace;font-weight:700}
+.l{fill:#7FD1FF;font-size:15px}.v{fill:#E6EDF3;font-size:15px}.h{fill:#FFD23F;font-size:13px}
+.ln{animation:in .2s linear both}
+.c{animation:in .15s linear both}
+.blink{animation:in .2s linear both, bl 1s steps(1) infinite}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes bl{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+.scan{animation:sc 6s linear infinite}
+@keyframes sc{from{transform:translateY(0)}to{transform:translateY(370px)}}
+</style>
+<rect x="0" y="0" width="820" height="370" fill="#2B3A55"/>
+<rect x="6" y="6" width="808" height="358" fill="#0D1117"/>
+<rect x="0" y="0" width="6" height="6" fill="#1B2335"/>
+<rect x="814" y="0" width="6" height="6" fill="#1B2335"/>
+<rect x="0" y="364" width="6" height="6" fill="#1B2335"/>
+<rect x="814" y="364" width="6" height="6" fill="#1B2335"/>
+<text x="24" y="34" class="h">▸ PLAYER 1</text><text x="796" y="34" class="h" text-anchor="end">HP ♥♥♥♥♥</text>
+<rect x="24" y="44" width="772" height="2" fill="#2B3A55"/>
+<g class="ln" style="animation-delay:0.30s"><text x="24" y="74" class="l">JUGADOR.......</text><text x="190" y="74" class="v">Jose Antonio Pereira</text></g>
+<g class="ln" style="animation-delay:0.65s"><text x="24" y="98" class="l">CLASE.........</text><text x="190" y="98" class="v">Responsable de Desarrollo</text></g>
+<g class="ln" style="animation-delay:1.00s"><text x="24" y="122" class="l">MUNDO.........</text><text x="190" y="122" class="v">Transporte y logística</text></g>
+<g class="ln" style="animation-delay:1.35s"><text x="24" y="146" class="l">BASE..........</text><text x="190" y="146" class="v">Valencia, España</text></g>
+<g class="ln" style="animation-delay:1.70s"><text x="24" y="184" class="l">ERP...........</text></g>
+<rect x="190" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="212" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="234" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="256" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="278" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="300" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="322" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="344" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="366" y="171" width="18" height="14" fill="#1B2335"/>
+<rect x="388" y="171" width="18" height="14" fill="#1B2335"/>
+<rect class="c" style="animation-delay:1.80s" x="190" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:1.88s" x="212" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:1.96s" x="234" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.04s" x="256" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.12s" x="278" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.20s" x="300" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.28s" x="322" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.36s" x="344" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.44s" x="366" y="171" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.52s" x="388" y="171" width="18" height="14" fill="#B8E8FF"/>
+<text class="c" style="animation-delay:2.60s" x="420" y="184" fill="#8B949E" font-size="13">LV 10</text>
+<g class="ln" style="animation-delay:2.75s"><text x="24" y="208" class="l">INTEGRACIONES.</text></g>
+<rect x="190" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="212" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="234" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="256" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="278" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="300" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="322" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="344" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="366" y="195" width="18" height="14" fill="#1B2335"/>
+<rect x="388" y="195" width="18" height="14" fill="#1B2335"/>
+<rect class="c" style="animation-delay:2.85s" x="190" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:2.93s" x="212" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.01s" x="234" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.09s" x="256" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.17s" x="278" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.25s" x="300" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.33s" x="322" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.41s" x="344" y="195" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.49s" x="366" y="195" width="18" height="14" fill="#B8E8FF"/>
+<text class="c" style="animation-delay:3.57s" x="420" y="208" fill="#8B949E" font-size="13">LV 9</text>
+<g class="ln" style="animation-delay:3.72s"><text x="24" y="232" class="l">TRANSPORTE....</text></g>
+<rect x="190" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="212" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="234" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="256" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="278" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="300" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="322" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="344" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="366" y="219" width="18" height="14" fill="#1B2335"/>
+<rect x="388" y="219" width="18" height="14" fill="#1B2335"/>
+<rect class="c" style="animation-delay:3.82s" x="190" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.90s" x="212" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:3.98s" x="234" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.06s" x="256" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.14s" x="278" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.22s" x="300" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.30s" x="322" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.38s" x="344" y="219" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.46s" x="366" y="219" width="18" height="14" fill="#B8E8FF"/>
+<text class="c" style="animation-delay:4.54s" x="420" y="232" fill="#8B949E" font-size="13">LV 9</text>
+<g class="ln" style="animation-delay:4.69s"><text x="24" y="256" class="l">DATOS / SQL...</text></g>
+<rect x="190" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="212" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="234" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="256" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="278" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="300" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="322" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="344" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="366" y="243" width="18" height="14" fill="#1B2335"/>
+<rect x="388" y="243" width="18" height="14" fill="#1B2335"/>
+<rect class="c" style="animation-delay:4.79s" x="190" y="243" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.87s" x="212" y="243" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:4.95s" x="234" y="243" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.03s" x="256" y="243" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.11s" x="278" y="243" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.19s" x="300" y="243" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.27s" x="322" y="243" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.35s" x="344" y="243" width="18" height="14" fill="#B8E8FF"/>
+<text class="c" style="animation-delay:5.43s" x="420" y="256" fill="#8B949E" font-size="13">LV 8</text>
+<g class="ln" style="animation-delay:5.58s"><text x="24" y="280" class="l">IA APLICADA...</text></g>
+<rect x="190" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="212" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="234" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="256" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="278" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="300" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="322" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="344" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="366" y="267" width="18" height="14" fill="#1B2335"/>
+<rect x="388" y="267" width="18" height="14" fill="#1B2335"/>
+<rect class="c" style="animation-delay:5.68s" x="190" y="267" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.76s" x="212" y="267" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.84s" x="234" y="267" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:5.92s" x="256" y="267" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:6.00s" x="278" y="267" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:6.08s" x="300" y="267" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:6.16s" x="322" y="267" width="18" height="14" fill="#7FD1FF"/>
+<rect class="c" style="animation-delay:6.24s" x="344" y="267" width="18" height="14" fill="#B8E8FF"/>
+<text class="c" style="animation-delay:6.32s" x="420" y="280" fill="#8B949E" font-size="13">LV 8</text>
+<text class="blink" style="animation-delay:6.77s, 6.77s" x="24" y="348" fill="#FFD23F" font-size="15">&gt; PRESS START_</text>
+<rect class="scan" x="6" y="-4" width="808" height="3" fill="#7FD1FF" opacity="0.06"/>
+</svg>
