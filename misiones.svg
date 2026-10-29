@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="352" viewBox="0 0 820 352" shape-rendering="crispEdges">
+<style>
+text{font-family:"Courier New",Consolas,monospace;font-weight:700}
+.l{fill:#5C3B1E;font-size:15px}.v{fill:#3B2614;font-size:15px}.d{fill:#6B5236;font-size:13px}.h{fill:#7A2E0E;font-size:13px}
+.ln{animation:in .25s linear both}
+.c{animation:in .15s linear both}
+.blink{animation:in .2s linear both, bl 1s steps(1) infinite}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .35s steps(4) both}
+.slide{animation:sl .6s steps(8) both}
+.glow{animation:gl 1.6s steps(2) infinite}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes bl{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes pop{0%{opacity:0;transform:scale(.3)}100%{opacity:1;transform:scale(1)}}
+@keyframes sl{0%{opacity:0;transform:translateX(860px)}100%{opacity:1;transform:translateX(0)}}
+@keyframes gl{0%{stroke-opacity:1}50%{stroke-opacity:.35}}
+.scan{animation:sc 6s linear infinite}
+@keyframes sc{from{transform:translateY(0)}to{transform:translateY(352px)}}
+</style>
+<rect x="0" y="0" width="820" height="352" fill="#8B5E34"/><rect x="6" y="6" width="808" height="340" fill="#EAD9B0"/>
+<rect x="0" y="0" width="6" height="6" fill="#5C3B1E"/>
+<rect x="814" y="0" width="6" height="6" fill="#5C3B1E"/>
+<rect x="0" y="346" width="6" height="6" fill="#5C3B1E"/>
+<rect x="814" y="346" width="6" height="6" fill="#5C3B1E"/>
+<text x="24" y="34" class="h">▸ MISIONES</text><text x="796" y="34" class="h" text-anchor="end">QUEST LOG</text>
+<rect x="24" y="44" width="772" height="2" fill="#B08A55"/>
+<g class="ln" style="animation-delay:0.30s"><rect x="24" y="60" width="14" height="14" fill="none" stroke="#7A2E0E" stroke-width="2"/><text x="50" y="72" class="h">01</text><text x="84" y="72" class="l">SISTEMAS DE TRANSPORTE</text><text x="84" y="92" class="d">Pedidos, planificación, tarifas y orígenes/destinos</text></g>
+<rect class="c" style="animation-delay:0.65s" x="28" y="64" width="6" height="6" fill="#B23A1A"/>
+<text class="c" style="animation-delay:0.65s" x="796" y="72" text-anchor="end" fill="#2E6B2E" font-size="12">[ACTIVA]</text>
+<g class="ln" style="animation-delay:0.75s"><rect x="24" y="106" width="14" height="14" fill="none" stroke="#7A2E0E" stroke-width="2"/><text x="50" y="118" class="h">02</text><text x="84" y="118" class="l">ERP</text><text x="84" y="138" class="d">Desarrollo, integración y automatización de procesos</text></g>
+<rect class="c" style="animation-delay:1.10s" x="28" y="110" width="6" height="6" fill="#B23A1A"/>
+<text class="c" style="animation-delay:1.10s" x="796" y="118" text-anchor="end" fill="#2E6B2E" font-size="12">[ACTIVA]</text>
+<g class="ln" style="animation-delay:1.20s"><rect x="24" y="152" width="14" height="14" fill="none" stroke="#7A2E0E" stroke-width="2"/><text x="50" y="164" class="h">03</text><text x="84" y="164" class="l">INTEGRACIONES</text><text x="84" y="184" class="d">EDI, APIs REST, servicios de terceros y sincronización de datos</text></g>
+<rect class="c" style="animation-delay:1.55s" x="28" y="156" width="6" height="6" fill="#B23A1A"/>
+<text class="c" style="animation-delay:1.55s" x="796" y="164" text-anchor="end" fill="#2E6B2E" font-size="12">[ACTIVA]</text>
+<g class="ln" style="animation-delay:1.65s"><rect x="24" y="198" width="14" height="14" fill="none" stroke="#7A2E0E" stroke-width="2"/><text x="50" y="210" class="h">04</text><text x="84" y="210" class="l">DATOS</text><text x="84" y="230" class="d">Modelado y carga en SQL, normalización de fuentes heterogéneas</text></g>
+<rect class="c" style="animation-delay:2.00s" x="28" y="202" width="6" height="6" fill="#B23A1A"/>
+<text class="c" style="animation-delay:2.00s" x="796" y="210" text-anchor="end" fill="#2E6B2E" font-size="12">[ACTIVA]</text>
+<g class="ln" style="animation-delay:2.10s"><rect x="24" y="244" width="14" height="14" fill="none" stroke="#7A2E0E" stroke-width="2"/><text x="50" y="256" class="h">05</text><text x="84" y="256" class="l">IA APLICADA</text><text x="84" y="276" class="d">LLMs, agentes y automatización inteligente</text></g>
+<rect class="c" style="animation-delay:2.45s" x="28" y="248" width="6" height="6" fill="#B23A1A"/>
+<text class="c" style="animation-delay:2.45s" x="796" y="256" text-anchor="end" fill="#2E6B2E" font-size="12">[ACTIVA]</text>
+<g class="ln" style="animation-delay:2.55s"><rect x="24" y="290" width="14" height="14" fill="none" stroke="#7A2E0E" stroke-width="2"/><text x="50" y="302" class="h">06</text><text x="84" y="302" class="l">IA RESPONSABLE</text><text x="84" y="322" class="d">Adaptación al Reglamento Europeo de IA (AI Act)</text></g>
+<rect class="c" style="animation-delay:2.90s" x="28" y="294" width="6" height="6" fill="#B23A1A"/>
+<text class="c" style="animation-delay:2.90s" x="796" y="302" text-anchor="end" fill="#2E6B2E" font-size="12">[ACTIVA]</text>
+<rect class="scan" x="6" y="-4" width="808" height="3" fill="#8B5E34" opacity="0.08"/>
+</svg>
