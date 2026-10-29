@@ -12,34 +12,13 @@
 
 ---
 
-### ▸ Player 1
+<p align="center"><img src="player1.svg" width="100%" alt="Player 1: Jose Antonio Pereira, Responsable de Desarrollo. Habilidades: ERP, integraciones, transporte, datos/SQL, IA/LLM, Python y FastAPI"/></p>
 
-<p align="center"><img src="player1.svg" width="100%" alt="Player 1: Jose Antonio Pereira, Responsable de Desarrollo"/></p>
+<p align="center"><img src="misiones.svg" width="100%" alt="Misiones: sistemas de transporte, ERP, integraciones, datos, IA aplicada e IA responsable"/></p>
 
-### ▸ Misiones
+<p align="center"><img src="inventario.svg" width="100%" alt="Inventario: SQL, Python, FastAPI, APIs REST, EDI, ERP, LLMs, agentes IA, IA generativa y Git"/></p>
 
-- 🚚 **Sistemas de transporte:** pedidos, planificación, tarifas y orígenes/destinos
-- 🧩 **ERP:** desarrollo, integración y automatización de procesos
-- 🔌 **Integraciones:** EDI, APIs REST, servicios de terceros y sincronización de datos
-- 🗄️ **Datos:** modelado y carga en SQL, normalización de fuentes heterogéneas
-- 🤖 **IA aplicada:** LLMs, agentes y automatización inteligente
-- ⚖️ **IA responsable:** adaptación al Reglamento Europeo de IA (AI Act)
-
-### ▸ Inventario
-
-<p>
-<img src="https://img.shields.io/badge/SQL-2F3136?style=flat-square&logo=databricks&logoColor=7FD1FF" alt="SQL"/>
-<img src="https://img.shields.io/badge/APIs_REST-2F3136?style=flat-square&logo=postman&logoColor=7FD1FF" alt="APIs REST"/>
-<img src="https://img.shields.io/badge/EDI-2F3136?style=flat-square&logo=files&logoColor=7FD1FF" alt="EDI"/>
-<img src="https://img.shields.io/badge/ERP-2F3136?style=flat-square&logo=sap&logoColor=7FD1FF" alt="ERP"/>
-<img src="https://img.shields.io/badge/IA_Generativa-2F3136?style=flat-square&logo=anthropic&logoColor=7FD1FF" alt="IA Generativa"/>
-<img src="https://img.shields.io/badge/Git-2F3136?style=flat-square&logo=git&logoColor=7FD1FF" alt="Git"/>
-</p>
-
-### ▸ Logros desbloqueados
-
-- 🏆 **Máster en Inteligencia Artificial**: BIG School, con doble titulación de la Universidad Isabel I (2026)
-- 🎖️ **Responsable de Desarrollo** desde 2026
+<p align="center"><img src="logros.svg" width="100%" alt="Logros: Máster en Inteligencia Artificial (BIG School, Universidad Isabel I, 2026) y Responsable de Desarrollo (2026)"/></p>
 
 ---
 
