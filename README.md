@@ -14,20 +14,7 @@
 
 ### ▸ Player 1
 
-```text
-JUGADOR ........ Jose Antonio Pereira
-CLASE .......... Responsable de Desarrollo
-MUNDO .......... Transporte y logística
-BASE ........... Valencia, España
-
-ERP ............ [##########]
-INTEGRACIONES .. [#########-]
-TRANSPORTE ..... [#########-]
-DATOS / SQL .... [########--]
-IA APLICADA .... [########--]
-
-> PRESS START_
-```
+<p align="center"><img src="player1.svg" width="100%" alt="Player 1: Jose Antonio Pereira, Responsable de Desarrollo"/></p>
 
 ### ▸ Misiones
 
