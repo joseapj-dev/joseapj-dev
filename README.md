@@ -16,6 +16,8 @@
 
 <p align="center"><img src="misiones.svg" width="100%" alt="Misiones: sistemas de transporte, ERP, integraciones, datos, IA aplicada e IA responsable"/></p>
 
+<p align="center"><img src="experiencia.svg" width="100%" alt="Historial: Soporte técnico superior en Xtremmedia (2016-2021), Técnico informático en el Ilustre Colegio de Abogados de Badajoz (2021-2025) y Sistemas TI / Responsable de Desarrollo en transporte y logística (2025-hoy)"/></p>
+
 <p align="center"><img src="inventario.svg" width="100%" alt="Inventario: SQL, Python, FastAPI, APIs REST, EDI, ERP, LLMs, agentes IA, IA generativa y Git"/></p>
 
 <p align="center"><img src="logros.svg" width="100%" alt="Logros: Máster en Inteligencia Artificial (BIG School, Universidad Isabel I, 2026) y Responsable de Desarrollo (2026)"/></p>
