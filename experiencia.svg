@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="392" viewBox="0 0 820 392" shape-rendering="crispEdges">
+<style>
+text{font-family:"Courier New",Consolas,monospace;font-weight:700}
+.l{fill:#FFB347;font-size:15px}.v{fill:#FFF4E0;font-size:15px}.d{fill:#C9A27A;font-size:13px}.h{fill:#FFD23F;font-size:13px}
+.ln{animation:in .25s linear both}
+.c{animation:in .15s linear both}
+.blink{animation:in .2s linear both, bl 1s steps(1) infinite}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .35s steps(4) both}
+.slide{animation:sl .6s steps(8) both}
+.glow{animation:gl 1.6s steps(2) infinite}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes bl{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes pop{0%{opacity:0;transform:scale(.3)}100%{opacity:1;transform:scale(1)}}
+@keyframes sl{0%{opacity:0;transform:translateX(860px)}100%{opacity:1;transform:translateX(0)}}
+@keyframes gl{0%{stroke-opacity:1}50%{stroke-opacity:.35}}
+.scan{animation:sc 6s linear infinite}
+@keyframes sc{from{transform:translateY(0)}to{transform:translateY(392px)}}
+</style>
+<rect x="0" y="0" width="820" height="392" fill="#FF9F1C"/><rect x="6" y="6" width="808" height="380" fill="#1A1206"/>
+<rect x="0" y="0" width="6" height="6" fill="#B86A00"/>
+<rect x="814" y="0" width="6" height="6" fill="#B86A00"/>
+<rect x="0" y="386" width="6" height="6" fill="#B86A00"/>
+<rect x="814" y="386" width="6" height="6" fill="#B86A00"/>
+<text x="24" y="34" class="h">▸ HISTORIAL DE PARTIDA</text><text x="796" y="34" class="h" text-anchor="end">10 AÑOS DE XP</text>
+<rect x="24" y="44" width="772" height="2" fill="#7A4A10"/>
+<rect x="44" y="108" width="4" height="216" fill="#7A4A10"/>
+<g class="slide" style="animation-delay:0.30s"><rect x="76" y="60" width="720" height="96" fill="#2A1C0A" stroke="#FFB347" stroke-width="2"/><text x="92" y="84" class="h" style="font-size:12px">MUNDO 1</text><text x="780" y="84" text-anchor="end" class="l" style="font-size:13px">2016 - 2021</text><text x="92" y="106" class="v">Soporte técnico superior</text><text x="92" y="126" class="d">Xtremmedia · Badajoz</text><text x="92" y="146" fill="#FFB347" font-size="12">Soporte técnico · Equipos informáticos · Atención al cliente · Office</text></g>
+<g class="pop" style="animation-delay:0.30s"><rect x="34" y="96" width="24" height="24" fill="#FFB347"/><rect x="40" y="102" width="12" height="12" fill="#1A1206"/><rect x="43" y="105" width="6" height="6" fill="#7CFF9E"/></g>
+<text class="c" style="animation-delay:0.80s" x="780" y="106" text-anchor="end" fill="#7CFF9E" font-size="12">✔ COMPLETADO</text>
+<g class="slide" style="animation-delay:0.90s"><rect x="76" y="168" width="720" height="96" fill="#2A1C0A" stroke="#FFB347" stroke-width="2"/><text x="92" y="192" class="h" style="font-size:12px">MUNDO 2</text><text x="780" y="192" text-anchor="end" class="l" style="font-size:13px">2021 - 2025</text><text x="92" y="214" class="v">Técnico informático</text><text x="92" y="234" class="d">Ilustre Colegio de Abogados de Badajoz</text><text x="92" y="254" fill="#FFB347" font-size="12">Windows Server · Active Directory · Office 365 · Integración de sistemas</text></g>
+<g class="pop" style="animation-delay:0.90s"><rect x="34" y="204" width="24" height="24" fill="#FFB347"/><rect x="40" y="210" width="12" height="12" fill="#1A1206"/><rect x="43" y="213" width="6" height="6" fill="#7CFF9E"/></g>
+<text class="c" style="animation-delay:1.40s" x="780" y="214" text-anchor="end" fill="#7CFF9E" font-size="12">✔ COMPLETADO</text>
+<g class="slide" style="animation-delay:1.50s"><rect x="76" y="276" width="720" height="96" fill="#2A1C0A" stroke="#FFD23F" stroke-width="2"/><text x="92" y="300" class="h" style="font-size:12px">MUNDO 3</text><text x="780" y="300" text-anchor="end" class="l" style="font-size:13px">2025 - HOY</text><text x="92" y="322" class="v">Sistemas TI → Responsable de Desarrollo</text><text x="92" y="342" class="d">Sector transporte y logística · Valencia</text><text x="92" y="362" fill="#FFB347" font-size="12">ERP · Integraciones · Desarrollo · IA aplicada</text></g>
+<g class="pop" style="animation-delay:1.50s"><rect x="34" y="312" width="24" height="24" fill="#FFD23F"/><rect x="40" y="318" width="12" height="12" fill="#1A1206"/></g>
+<text class="blink" style="animation-delay:2.10s, 2.10s" x="620" y="322" fill="#FFD23F" font-size="12">◀ ESTÁS AQUÍ</text>
+<rect class="scan" x="6" y="-4" width="808" height="3" fill="#FF9F1C" opacity="0.08"/>
+</svg>
