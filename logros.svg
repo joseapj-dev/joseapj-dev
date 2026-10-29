@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="242" viewBox="0 0 820 242" shape-rendering="crispEdges">
+<style>
+text{font-family:"Courier New",Consolas,monospace;font-weight:700}
+.l{fill:#FF8AD0;font-size:15px}.v{fill:#FFFFFF;font-size:15px}.d{fill:#D7B8FF;font-size:13px}.h{fill:#FFD23F;font-size:13px}
+.ln{animation:in .25s linear both}
+.c{animation:in .15s linear both}
+.blink{animation:in .2s linear both, bl 1s steps(1) infinite}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .35s steps(4) both}
+.slide{animation:sl .6s steps(8) both}
+.glow{animation:gl 1.6s steps(2) infinite}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes bl{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes pop{0%{opacity:0;transform:scale(.3)}100%{opacity:1;transform:scale(1)}}
+@keyframes sl{0%{opacity:0;transform:translateX(860px)}100%{opacity:1;transform:translateX(0)}}
+@keyframes gl{0%{stroke-opacity:1}50%{stroke-opacity:.35}}
+.scan{animation:sc 6s linear infinite}
+@keyframes sc{from{transform:translateY(0)}to{transform:translateY(242px)}}
+</style>
+<rect x="0" y="0" width="820" height="242" fill="#FF3EA5"/><rect x="6" y="6" width="808" height="230" fill="#1A0B2E"/>
+<rect x="0" y="0" width="6" height="6" fill="#B0127A"/>
+<rect x="814" y="0" width="6" height="6" fill="#B0127A"/>
+<rect x="0" y="236" width="6" height="6" fill="#B0127A"/>
+<rect x="814" y="236" width="6" height="6" fill="#B0127A"/>
+<text x="24" y="34" class="h">▸ LOGROS DESBLOQUEADOS</text><text x="796" y="34" class="h" text-anchor="end">2/2</text>
+<rect x="24" y="44" width="772" height="2" fill="#6B2FA8"/>
+<g class="slide" style="animation-delay:0.30s"><rect x="24" y="60" width="772" height="72" fill="#2A1247" stroke="#FFD23F" stroke-width="2"/><rect x="48" y="72" width="32" height="4" fill="#FFD23F"/><rect x="40" y="76" width="48" height="4" fill="#FFD23F"/><rect x="40" y="80" width="8" height="8" fill="#FFD23F"/><rect x="80" y="80" width="8" height="8" fill="#FFD23F"/><rect x="48" y="76" width="32" height="20" fill="#FFD23F"/><rect x="52" y="96" width="24" height="4" fill="#FFD23F"/><rect x="60" y="100" width="8" height="8" fill="#FFD23F"/><rect x="52" y="108" width="24" height="4" fill="#FFD23F"/><rect x="48" y="112" width="32" height="8" fill="#FFD23F"/><rect x="52" y="80" width="4" height="8" fill="#FFF3B0"/><text x="112" y="84" fill="#FFD23F" font-size="11">★ LOGRO DESBLOQUEADO</text><text x="112" y="105" class="v">Máster en Inteligencia Artificial</text><text x="112" y="123" class="d">BIG School · Doble titulación con la Universidad Isabel I</text><text x="780" y="105" text-anchor="end" class="l">2026</text></g>
+<rect class="blink" style="animation-delay:1.10s, 1.10s" x="96" y="70" width="4" height="4" fill="#FFF3B0"/>
+<g class="slide" style="animation-delay:1.00s"><rect x="24" y="146" width="772" height="72" fill="#2A1247" stroke="#FFD23F" stroke-width="2"/><rect x="48" y="158" width="32" height="4" fill="#FFD23F"/><rect x="40" y="162" width="48" height="4" fill="#FFD23F"/><rect x="40" y="166" width="8" height="8" fill="#FFD23F"/><rect x="80" y="166" width="8" height="8" fill="#FFD23F"/><rect x="48" y="162" width="32" height="20" fill="#FFD23F"/><rect x="52" y="182" width="24" height="4" fill="#FFD23F"/><rect x="60" y="186" width="8" height="8" fill="#FFD23F"/><rect x="52" y="194" width="24" height="4" fill="#FFD23F"/><rect x="48" y="198" width="32" height="8" fill="#FFD23F"/><rect x="52" y="166" width="4" height="8" fill="#FFF3B0"/><text x="112" y="170" fill="#FFD23F" font-size="11">★ LOGRO DESBLOQUEADO</text><text x="112" y="191" class="v">Responsable de Desarrollo</text><text x="112" y="209" class="d">Nivel desbloqueado en el sector del transporte y la logística</text><text x="780" y="191" text-anchor="end" class="l">2026</text></g>
+<rect class="blink" style="animation-delay:1.80s, 1.80s" x="96" y="156" width="4" height="4" fill="#FFF3B0"/>
+<rect class="scan" x="6" y="-4" width="808" height="3" fill="#FF3EA5" opacity="0.08"/>
+</svg>
