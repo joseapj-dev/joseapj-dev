@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="242" viewBox="0 0 820 242" shape-rendering="crispEdges">
+<style>
+text{font-family:"Courier New",Consolas,monospace;font-weight:700}
+.l{fill:#7CFF9E;font-size:15px}.v{fill:#E6FFE9;font-size:15px}.d{fill:#7FA88A;font-size:13px}.h{fill:#7CFF9E;font-size:13px}
+.ln{animation:in .25s linear both}
+.c{animation:in .15s linear both}
+.blink{animation:in .2s linear both, bl 1s steps(1) infinite}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .35s steps(4) both}
+.slide{animation:sl .6s steps(8) both}
+.glow{animation:gl 1.6s steps(2) infinite}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes bl{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes pop{0%{opacity:0;transform:scale(.3)}100%{opacity:1;transform:scale(1)}}
+@keyframes sl{0%{opacity:0;transform:translateX(860px)}100%{opacity:1;transform:translateX(0)}}
+@keyframes gl{0%{stroke-opacity:1}50%{stroke-opacity:.35}}
+.scan{animation:sc 6s linear infinite}
+@keyframes sc{from{transform:translateY(0)}to{transform:translateY(242px)}}
+</style>
+<rect x="0" y="0" width="820" height="242" fill="#1F7A45"/><rect x="6" y="6" width="808" height="230" fill="#0B1F14"/>
+<rect x="0" y="0" width="6" height="6" fill="#0F3A22"/>
+<rect x="814" y="0" width="6" height="6" fill="#0F3A22"/>
+<rect x="0" y="236" width="6" height="6" fill="#0F3A22"/>
+<rect x="814" y="236" width="6" height="6" fill="#0F3A22"/>
+<text x="24" y="34" class="h">▸ INVENTARIO</text><text x="796" y="34" class="h" text-anchor="end">10/20 SLOTS</text>
+<rect x="24" y="44" width="772" height="2" fill="#1F5F3A"/>
+<g class="pop" style="animation-delay:0.30s"><rect x="35" y="62" width="142" height="64" fill="#10291B" stroke="#FFD23F" stroke-width="2" class="glow"/><rect x="41" y="68" width="8" height="8" fill="#FFD23F"/><text x="106" y="100" text-anchor="middle" class="v" style="font-size:15px">SQL</text><text x="169" y="118" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:0.45s"><rect x="187" y="62" width="142" height="64" fill="#10291B" stroke="#FFD23F" stroke-width="2" class="glow"/><rect x="193" y="68" width="8" height="8" fill="#FFD23F"/><text x="258" y="100" text-anchor="middle" class="v" style="font-size:15px">PYTHON</text><text x="321" y="118" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:0.60s"><rect x="339" y="62" width="142" height="64" fill="#10291B" stroke="#B57EDC" stroke-width="2" /><rect x="345" y="68" width="8" height="8" fill="#B57EDC"/><text x="410" y="100" text-anchor="middle" class="v" style="font-size:15px">FASTAPI</text><text x="473" y="118" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:0.75s"><rect x="491" y="62" width="142" height="64" fill="#10291B" stroke="#B57EDC" stroke-width="2" /><rect x="497" y="68" width="8" height="8" fill="#B57EDC"/><text x="562" y="100" text-anchor="middle" class="v" style="font-size:15px">APIs REST</text><text x="625" y="118" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:0.90s"><rect x="643" y="62" width="142" height="64" fill="#10291B" stroke="#7CFF9E" stroke-width="2" /><rect x="649" y="68" width="8" height="8" fill="#7CFF9E"/><text x="714" y="100" text-anchor="middle" class="v" style="font-size:15px">EDI</text><text x="777" y="118" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:1.05s"><rect x="35" y="138" width="142" height="64" fill="#10291B" stroke="#FFD23F" stroke-width="2" class="glow"/><rect x="41" y="144" width="8" height="8" fill="#FFD23F"/><text x="106" y="176" text-anchor="middle" class="v" style="font-size:15px">ERP</text><text x="169" y="194" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:1.20s"><rect x="187" y="138" width="142" height="64" fill="#10291B" stroke="#B57EDC" stroke-width="2" /><rect x="193" y="144" width="8" height="8" fill="#B57EDC"/><text x="258" y="176" text-anchor="middle" class="v" style="font-size:15px">LLMs</text><text x="321" y="194" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:1.35s"><rect x="339" y="138" width="142" height="64" fill="#10291B" stroke="#B57EDC" stroke-width="2" /><rect x="345" y="144" width="8" height="8" fill="#B57EDC"/><text x="410" y="176" text-anchor="middle" class="v" style="font-size:15px">AGENTES IA</text><text x="473" y="194" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:1.50s"><rect x="491" y="138" width="142" height="64" fill="#10291B" stroke="#7CFF9E" stroke-width="2" /><rect x="497" y="144" width="8" height="8" fill="#7CFF9E"/><text x="562" y="176" text-anchor="middle" class="v" style="font-size:13px">IA GENERATIVA</text><text x="625" y="194" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="pop" style="animation-delay:1.65s"><rect x="643" y="138" width="142" height="64" fill="#10291B" stroke="#7CFF9E" stroke-width="2" /><rect x="649" y="144" width="8" height="8" fill="#7CFF9E"/><text x="714" y="176" text-anchor="middle" class="v" style="font-size:15px">GIT</text><text x="777" y="194" text-anchor="end" fill="#8B949E" font-size="11">x1</text></g>
+<g class="ln" style="animation-delay:2.00s"><rect x="24" y="220" width="8" height="8" fill="#FFD23F"/><text x="38" y="228" class="d" style="font-size:11px">LEGENDARIO</text><rect x="140" y="220" width="8" height="8" fill="#B57EDC"/><text x="154" y="228" class="d" style="font-size:11px">ÉPICO</text><rect x="220" y="220" width="8" height="8" fill="#7CFF9E"/><text x="234" y="228" class="d" style="font-size:11px">RARO</text></g>
+<rect class="scan" x="6" y="-4" width="808" height="3" fill="#7CFF9E" opacity="0.08"/>
+</svg>
