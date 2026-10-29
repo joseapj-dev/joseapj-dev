@@ -57,5 +57,5 @@ Lidero el desarrollo de software en el sector del transporte y la logística. Di
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=4000&pause=2000&color=7FD1FF&center=true&vCenter=true&width=640&height=30&lines=%3E+Abierto+a+colaborar+en+automatizaci%C3%B3n%2C+integraci%C3%B3n+e+IA_" alt="Abierto a colaborar en automatización, integración e IA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=2000&color=7FD1FF&center=true&vCenter=true&width=760&height=30&lines=%3E+Abierto+a+colaborar+en+automatizaci%C3%B3n%2C+integraci%C3%B3n+e+IA_" alt="Abierto a colaborar en automatización, integración e IA"/>
 </div>
